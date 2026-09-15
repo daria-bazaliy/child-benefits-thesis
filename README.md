@@ -46,9 +46,10 @@ once family composition and other controls were accounted for.
 
 ## Files
 
-- `ВКР Базалий пособия и бедность скрип.R` — full analysis: data cleaning, 
+- `child-benefit-code.R` — full analysis: data cleaning, 
   descriptive statistics, cross-sectional and panel probit models, IV 
   estimation, robustness checks
+  Full work(https://www.hse.ru/en/edu/vkr/1158311521)
 
 ## Tools
 
