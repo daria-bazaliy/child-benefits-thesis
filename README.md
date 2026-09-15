@@ -49,7 +49,7 @@ once family composition and other controls were accounted for.
 - `child-benefit-code.R` — full analysis: data cleaning, 
   descriptive statistics, cross-sectional and panel probit models, IV 
   estimation, robustness checks
-  [Full thesis text](https://www.hse.ru/en/edu/vkr/1158311521)
+- [Full thesis text](https://www.hse.ru/en/edu/vkr/1158311521)
 
 ## Tools
 
